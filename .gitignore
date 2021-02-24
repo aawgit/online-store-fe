@@ -8,3 +8,4 @@ server/dist
 /build
 firebase.json
 .firebaserc
+/.firebase
