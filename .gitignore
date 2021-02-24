@@ -6,6 +6,5 @@ variables.env
 .env
 server/dist
 /build
-firebase.json
 .firebaserc
 /.firebase
